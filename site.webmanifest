@@ -1,0 +1,12 @@
+{
+  "name": "Прайм Эра",
+  "short_name": "Прайм Эра",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ec",
+  "theme_color": "#6e3038",
+  "icons": [
+    { "src": "images/brand/favicon.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "images/brand/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

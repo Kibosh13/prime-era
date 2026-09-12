@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label=";0= :20@B8@K 4> ?5@5?;0=8@>2:8">
+  <rect width="640" height="420" fill="#f7f4f0"/>
+  <g fill="none" stroke="#2c2724" stroke-width="1.4">
+    <rect x="36" y="36" width="568" height="348"/>
+    <path d="M220 36v348M400 36v348M36 210h184M220 250h180M400 180h204"/>
+    <path d="M36 36h568v348H36z" stroke-width="2.2"/>
+  </g>
+  <g fill="#2c2724" font-family="Georgia, serif" font-size="11" letter-spacing="1.4">
+    <text x="92" y="130"> %/</text>
+    <text x="86" y="300">#%/</text>
+    <text x="268" y="160">!"/</text>
+    <text x="262" y="330">!,/</text>
+    <text x="458" y="120">!,/</text>
+    <text x="454" y="280">!#</text>
+  </g>
+  <g fill="none" stroke="#6e3038" stroke-width="1">
+    <path d="M52 210h28M220 118v28M400 96v28M400 250h28"/>
+  </g>
+</svg>

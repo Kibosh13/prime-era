@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label=";0= :20@B8@K ?>A;5 ?5@5?;0=8@>2:8">
+  <rect width="640" height="420" fill="#f7f4f0"/>
+  <g fill="none" stroke="#2c2724" stroke-width="1.4">
+    <rect x="36" y="36" width="568" height="348" stroke-width="2.2"/>
+    <path d="M36 36h250v348H36z"/>
+    <path d="M286 36h180v220H286z"/>
+    <path d="M466 36h138v140H466z"/>
+    <path d="M466 176h138v100H466z"/>
+    <path d="M286 256h152v128H286z"/>
+    <path d="M438 256h166v128H438z"/>
+  </g>
+  <g fill="#2c2724" font-family="Georgia, serif" font-size="11" letter-spacing="1.2">
+    <text x="78" y="200">#%/-!"/</text>
+    <text x="318" y="140">!" -!,/</text>
+    <text x="492" y="110">  </text>
+    <text x="498" y="232">/</text>
+    <text x="318" y="324">"!/</text>
+    <text x="470" y="324">"!/</text>
+  </g>
+  <g fill="none" stroke="#6e3038" stroke-width="1">
+    <path d="M52 210h32M286 120v32M466 88v28M438 300h28"/>
+  </g>
+</svg>
