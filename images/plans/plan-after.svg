@@ -1,23 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label=";0= :20@B8@K ?>A;5 ?5@5?;0=8@>2:8">
-  <rect width="640" height="420" fill="#f7f4f0"/>
-  <g fill="none" stroke="#2c2724" stroke-width="1.4">
-    <rect x="36" y="36" width="568" height="348" stroke-width="2.2"/>
-    <path d="M36 36h250v348H36z"/>
-    <path d="M286 36h180v220H286z"/>
-    <path d="M466 36h138v140H466z"/>
-    <path d="M466 176h138v100H466z"/>
-    <path d="M286 256h152v128H286z"/>
-    <path d="M438 256h166v128H438z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-label="План квартиры после перепланировки">
+  <rect width="720" height="480" fill="#f4efe8"/>
+  <g fill="none" stroke="#2a2420" stroke-linejoin="miter">
+    <rect x="40" y="36" width="640" height="408" stroke-width="3.2"/>
+    <path stroke-width="2" d="M292 36v408"/>
+    <path stroke-width="2" d="M292 36h228v236H292z"/>
+    <path stroke-width="2" d="M520 36h160v148H520z"/>
+    <path stroke-width="2" d="M520 184h160v88H520z"/>
+    <path stroke-width="2" d="M292 272h168v172H292z"/>
+    <path stroke-width="2" d="M460 272h220v172H460z"/>
   </g>
-  <g fill="#2c2724" font-family="Georgia, serif" font-size="11" letter-spacing="1.2">
-    <text x="78" y="200">#%/-!"/</text>
-    <text x="318" y="140">!" -!,/</text>
-    <text x="492" y="110">  </text>
-    <text x="498" y="232">/</text>
-    <text x="318" y="324">"!/</text>
-    <text x="470" y="324">"!/</text>
+  <g fill="none" stroke="#2a2420" stroke-width="1.4">
+    <path d="M118 230h36M292 120v36M520 88v28M520 220h28M460 340h28"/>
   </g>
-  <g fill="none" stroke="#6e3038" stroke-width="1">
-    <path d="M52 210h32M286 120v32M466 88v28M438 300h28"/>
+  <g fill="#2a2420" font-family="Georgia, 'Times New Roman', serif" font-size="12" letter-spacing="1.2">
+    <text x="86" y="210">КУХНЯ-ГОСТИНАЯ</text>
+    <text x="86" y="230">С ПАНОРАМОЙ</text>
+    <text x="328" y="150">МАСТЕР-СПАЛЬНЯ</text>
+    <text x="548" y="112">ГАРДЕРОБ</text>
+    <text x="562" y="232">ВАННАЯ</text>
+    <text x="328" y="360">ДЕТСКАЯ</text>
+    <text x="518" y="360">ДЕТСКАЯ</text>
+  </g>
+  <g fill="none" stroke="#2a2420" stroke-width="1.2">
+    <path d="M70 36h70M170 36h70M40 80v40M40 200v70M40 340v50"/>
+    <path d="M680 60v40M680 210v36M680 330v50"/>
   </g>
 </svg>
